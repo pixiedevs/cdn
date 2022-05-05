@@ -1,0 +1,517 @@
+[
+    {
+        "name": "Earth",
+        "latitude": 0,
+        "longitude": 0
+    },
+    {
+        "name": "Bhopal",
+        "latitude": 23.259933,
+        "longitude": 77.412613
+    },
+    {
+        "name": "Indore",
+        "latitude": 22.719568,
+        "longitude": 75.857727
+    },
+    {
+        "name": "Nanjangud",
+        "latitude": 12.12,
+        "longitude": 76.68
+    },
+    {
+        "name": "Chittorgarh",
+        "latitude": 24.879999,
+        "longitude": 74.629997
+    },
+    {
+        "name": "Ratnagiri",
+        "latitude": 16.994444,
+        "longitude": 73.300003
+    },
+    {
+        "name": "Goregaon",
+        "latitude": 19.155001,
+        "longitude": 72.849998
+    },
+    {
+        "name": "Pindwara",
+        "latitude": 24.7945,
+        "longitude": 73.055
+    },
+    {
+        "name": "Raipur",
+        "latitude": 21.25,
+        "longitude": 81.629997
+    },
+    {
+        "name": "Gokak",
+        "latitude": 16.1667,
+        "longitude": 74.833298
+    },
+    {
+        "name": "Lucknow",
+        "latitude": 26.85,
+        "longitude": 80.949997
+    },
+    {
+        "name": "Delhi",
+        "latitude": 28.679079,
+        "longitude": 77.06971
+    },
+    {
+        "name": "Mumbai",
+        "latitude": 19.07609,
+        "longitude": 72.877426
+    },
+    {
+        "name": "Sagar",
+        "latitude": 14.16704,
+        "longitude": 75.040298
+    },
+    {
+        "name": "Jalpaiguri",
+        "latitude": 26.540457,
+        "longitude": 88.719391
+    },
+    {
+        "name": "Pakur",
+        "latitude": 24.633568,
+        "longitude": 87.849251
+    },
+    {
+        "name": "Sardarshahar",
+        "latitude": 28.440554,
+        "longitude": 74.493011
+    },
+    {
+        "name": "Sirohi",
+        "latitude": 24.882618,
+        "longitude": 72.858894
+    },
+    {
+        "name": "Jaysingpur",
+        "latitude": 16.779877,
+        "longitude": 74.556374
+    },
+    {
+        "name": "Ramanagara",
+        "latitude": 12.715035,
+        "longitude": 77.281296
+    },
+    {
+        "name": "Chikkaballapura",
+        "latitude": 13.432515,
+        "longitude": 77.727478
+    },
+    {
+        "name": "Channapatna",
+        "latitude": 12.651805,
+        "longitude": 77.208946
+    },
+    {
+        "name": "Surendranagar",
+        "latitude": 22.728392,
+        "longitude": 71.637077
+    },
+    {
+        "name": "Thiruvalla",
+        "latitude": 9.383452,
+        "longitude": 76.574059
+    },
+    {
+        "name": "Ranebennur",
+        "latitude": 14.623801,
+        "longitude": 75.621788
+    },
+    {
+        "name": "Karaikal",
+        "latitude": 10.92544,
+        "longitude": 79.838005
+    },
+    {
+        "name": "Belgaum",
+        "latitude": 15.852792,
+        "longitude": 74.498703
+    },
+    {
+        "name": "Chatrapur",
+        "latitude": 19.354979,
+        "longitude": 84.986732
+    },
+    {
+        "name": "Suri",
+        "latitude": 23.905445,
+        "longitude": 87.52462
+    },
+    {
+        "name": "Bhubaneswar",
+        "latitude": 20.296059,
+        "longitude": 85.824539
+    },
+    {
+        "name": "Mahuva",
+        "latitude": 21.105001,
+        "longitude": 71.771645
+    },
+    {
+        "name": "Jagadhri",
+        "latitude": 30.172716,
+        "longitude": 77.299492
+    },
+    {
+        "name": "Barh",
+        "latitude": 25.477585,
+        "longitude": 85.709091
+    },
+    {
+        "name": "Bhusawal",
+        "latitude": 21.045521,
+        "longitude": 75.801094
+    },
+    {
+        "name": "Alipurduar",
+        "latitude": 26.49189,
+        "longitude": 89.5271
+    },
+    {
+        "name": "Kollam",
+        "latitude": 8.893212,
+        "longitude": 76.614143
+    },
+    {
+        "name": "Medinipur",
+        "latitude": 22.430889,
+        "longitude": 87.321487
+    },
+    {
+        "name": "Patan",
+        "latitude": 23.849325,
+        "longitude": 72.126625
+    },
+    {
+        "name": "Mettur",
+        "latitude": 11.786253,
+        "longitude": 77.800781
+    },
+    {
+        "name": "Huliyar",
+        "latitude": 13.583274,
+        "longitude": 76.540154
+    },
+    {
+        "name": "Harihar",
+        "latitude": 14.530457,
+        "longitude": 75.801094
+    },
+    {
+        "name": "Rasayani",
+        "latitude": 18.901457,
+        "longitude": 73.176132
+    },
+    {
+        "name": "Haringhata",
+        "latitude": 22.96051,
+        "longitude": 88.567406
+    },
+    {
+        "name": "Kushtagi",
+        "latitude": 15.756595,
+        "longitude": 76.192696
+    },
+    {
+        "name": "Jadugora",
+        "latitude": 22.656015,
+        "longitude": 86.352882
+    },
+    {
+        "name": "Orai",
+        "latitude": 25.989836,
+        "longitude": 79.450035
+    },
+    {
+        "name": "Surajpur",
+        "latitude": 23.223047,
+        "longitude": 82.87056
+    },
+    {
+        "name": "Ambernath",
+        "latitude": 19.186354,
+        "longitude": 73.191948
+    },
+    {
+        "name": "Malerkotla",
+        "latitude": 30.525005,
+        "longitude": 75.890121
+    },
+    {
+        "name": "Jorapokhar",
+        "latitude": 22.422455,
+        "longitude": 85.760651
+    },
+    {
+        "name": "Vizianagaram",
+        "latitude": 18.106659,
+        "longitude": 83.395554
+    },
+    {
+        "name": "Durg",
+        "latitude": 21.190449,
+        "longitude": 81.28492
+    },
+    {
+        "name": "Himmatnagar",
+        "latitude": 23.597969,
+        "longitude": 72.969818
+    },
+    {
+        "name": "Sambhal",
+        "latitude": 28.590361,
+        "longitude": 78.571762
+    },
+    {
+        "name": "Harnaut",
+        "latitude": 25.369179,
+        "longitude": 85.53006
+    },
+    {
+        "name": "Port",
+        "latitude": 11.623377,
+        "longitude": 92.726486
+    },
+    {
+        "name": "Suti",
+        "latitude": 24.618393,
+        "longitude": 88.024338
+    },
+    {
+        "name": "Banswara",
+        "latitude": 23.546757,
+        "longitude": 74.43383
+    },
+    {
+        "name": "Batumi",
+        "latitude": 41.643414,
+        "longitude": 41.6399
+    },
+    {
+        "name": "Manikchak",
+        "latitude": 25.077787,
+        "longitude": 87.900375
+    },
+    {
+        "name": "Roorkee",
+        "latitude": 29.854263,
+        "longitude": 77.888
+    },
+    {
+        "name": "Kavali",
+        "latitude": 14.913181,
+        "longitude": 79.992981
+    },
+    {
+        "name": "Dharmavaram",
+        "latitude": 14.413745,
+        "longitude": 77.712616
+    },
+    {
+        "name": "Siddipet",
+        "latitude": 18.101904,
+        "longitude": 78.852074
+    },
+    {
+        "name": "Dhanpuri",
+        "latitude": 23.173939,
+        "longitude": 81.565125
+    },
+    {
+        "name": "Chirala",
+        "latitude": 15.812074,
+        "longitude": 80.355377
+    },
+    {
+        "name": "Markapur",
+        "latitude": 15.764501,
+        "longitude": 79.259491
+    },
+    {
+        "name": "Chalakudy",
+        "latitude": 10.311879,
+        "longitude": 76.331978
+    },
+    {
+        "name": "Gondal",
+        "latitude": 21.961946,
+        "longitude": 70.792297
+    },
+    {
+        "name": "Bhimavaram",
+        "latitude": 16.544893,
+        "longitude": 81.52124
+    },
+    {
+        "name": "Jalgaon",
+        "latitude": 21.04954,
+        "longitude": 76.532028
+    },
+    {
+        "name": "Paltan",
+        "latitude": 26.182245,
+        "longitude": 91.754723
+    },
+    {
+        "name": "Hodal",
+        "latitude": 27.897551,
+        "longitude": 77.384117
+    },
+    {
+        "name": "Ausa",
+        "latitude": 18.245655,
+        "longitude": 76.505356
+    },
+    {
+        "name": "Mahidpur",
+        "latitude": 23.486839,
+        "longitude": 75.659157
+    },
+    {
+        "name": "Gurdaspur",
+        "latitude": 32.041943,
+        "longitude": 75.405334
+    },
+    {
+        "name": "Domchanch",
+        "latitude": 24.47438,
+        "longitude": 85.688744
+    },
+    {
+        "name": "Barjora",
+        "latitude": 23.427221,
+        "longitude": 87.287018
+    },
+    {
+        "name": "Saint",
+        "latitude": 19.487707,
+        "longitude": 75.380768
+    },
+    {
+        "name": "Sinnar",
+        "latitude": 19.85306,
+        "longitude": 74.000633
+    },
+    {
+        "name": "Guntakal",
+        "latitude": 15.167409,
+        "longitude": 77.373627
+    },
+    {
+        "name": "Lalgola",
+        "latitude": 24.417534,
+        "longitude": 88.250343
+    },
+    {
+        "name": "Hoshangabad",
+        "latitude": 22.744108,
+        "longitude": 77.736969
+    },
+    {
+        "name": "Proddatur",
+        "latitude": 14.752805,
+        "longitude": 78.552757
+    },
+    {
+        "name": "RL",
+        "latitude": 23.520399,
+        "longitude": 87.311897
+    },
+    {
+        "name": "Pali",
+        "latitude": 25.771315,
+        "longitude": 73.323685
+    },
+    {
+        "name": "Palwal",
+        "latitude": 28.148735,
+        "longitude": 77.332024
+    },
+    {
+        "name": "Gohana",
+        "latitude": 29.138407,
+        "longitude": 76.693245
+    },
+    {
+        "name": "Munger",
+        "latitude": 25.37571,
+        "longitude": 86.474373
+    },
+    {
+        "name": "Yavatmal",
+        "latitude": 20.388794,
+        "longitude": 78.120407
+    },
+    {
+        "name": "Bokaro",
+        "latitude": 23.669296,
+        "longitude": 86.151115
+    },
+    {
+        "name": "Jetpur",
+        "latitude": 21.761524,
+        "longitude": 70.627625
+    },
+    {
+        "name": "Basirhat",
+        "latitude": 22.657402,
+        "longitude": 88.86718
+    },
+    {
+        "name": "Konnagar",
+        "latitude": 22.700474,
+        "longitude": 88.319069
+    },
+    {
+        "name": "Ranchi",
+        "latitude": 23.344315,
+        "longitude": 85.296013
+    },
+    {
+        "name": "Gudur",
+        "latitude": 14.146319,
+        "longitude": 79.850388
+    },
+    {
+        "name": "Gola",
+        "latitude": 28.078636,
+        "longitude": 80.471588
+    },
+    {
+        "name": "Shikohabad",
+        "latitude": 27.108416,
+        "longitude": 78.584602
+    },
+    {
+        "name": "Tirumangalam",
+        "latitude": 9.823619,
+        "longitude": 77.986565
+    },
+    {
+        "name": "Anakaputhur",
+        "latitude": 12.946366,
+        "longitude": 79.959244
+    },
+    {
+        "name": "Suryapet",
+        "latitude": 17.143908,
+        "longitude": 79.623924
+    },
+    {
+        "name": "Udupi",
+        "latitude": 13.340881,
+        "longitude": 74.742142
+    },
+    {
+        "name": "Nandyal",
+        "latitude": 15.478569,
+        "longitude": 78.483093
+    }
+]
