@@ -1,0 +1,36 @@
+{
+    "web": [
+        {
+            "name": "AcadEval",
+            "url": "https://github.com/pixiedevs/acadEval-preview",
+            "github": null
+        },
+        {
+            "name": "pcoder",
+            "url": "http://praveen-yadav.herokuapp.com",
+            "github": null
+        },
+        {
+            "name": "newsScrap",
+            "url": "http://pixiedevs.pythonanywhere.com",
+            "github": null
+        },
+        {
+            "name": "textUtils",
+            "url": null,
+            "github": "https://github.com/pixiedevpraveen/textUtils"
+        }
+    ],
+    "mobile": [
+        {
+            "name": "devNews",
+            "url": "https://github.com/pixiedevpraveen/devNews/releases/download/v1.0.0/devnews.1.0.0.apk",
+            "github": "https://github.com/pixiedevpraveen/devNews"
+        },
+        {
+            "name": "your_gender",
+            "url": "https://pixiedevpraveen.github.io/your_gender",
+            "github": "https://github.com/pixiedevpraveen/your_gender"
+        }
+    ]
+}
